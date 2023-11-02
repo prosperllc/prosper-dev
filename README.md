@@ -54,14 +54,13 @@ Report the leaked token as explained below to security@prosper.com
 
 ### Reporting a Leaked Token
 
-To report a leaked token, you should provide the following information to the affected organization:
+When you report a leaked token, you should provide the following information to the us:
 
 * The type of token (e.g., API token, OAuth token, JWT)
 * The value of the token
 * The source of the leak (e.g., a public website, a GitHub repository, a social media post)
-You should also provide any other relevant information, such as your contact information and a description of how you found the leaked token.
 
-Leaked tokens can be a serious security threat. By following the guidance in this document, you can help to protect your organization and your users from the risks associated with leaked tokens.
+You should also provide any other relevant information, such as your contact information and a description of how you found the leaked token. Leaked tokens can be a serious security threat. By following the guidance in this document, you can help to protect our organization and users from the risks associated with leaked tokens.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
