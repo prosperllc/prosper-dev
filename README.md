@@ -24,49 +24,38 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## Reach out to security
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Report security events related to prosper as below.
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+### Leaked tokens
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+A token is a unique identifier that is used to authenticate and authorize users and applications. Tokens are often stored in cookies, local storage, or other browser storage mechanisms. If a token is leaked, it could allow an attacker to gain unauthorized access to user accounts or applications.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+If you find a leaked prosper token, it is important to report it immediately to the Prosper Security team. You can usually do this by reaching out to [Prosper-security](mailto:security@prosper.com).
 
-Use the `BLANK_README.md` to get started.
+In addition to reporting the leaked token, you should also take steps to protect your own account and data. This may include changing your password, Look for suspicious emails or messages in your phone. Make sure the your device is free of malwares .
+
+### Responding to a Leaked Token
+
+If you are notified that your personal token has been leaked, you should take the following steps:
+
+Revoke the token. This will prevent the attacker from using the token to gain access to your systems or data.
+Generate a new token -> update in API if you are using API
+Report the leaked token as explained below to security@prosper.com 
+
+
+### Reporting a Leaked Token
+
+To report a leaked token, you should provide the following information to the affected organization:
+
+* The type of token (e.g., API token, OAuth token, JWT)
+* The value of the token
+* The source of the leak (e.g., a public website, a GitHub repository, a social media post)
+You should also provide any other relevant information, such as your contact information and a description of how you found the leaked token.
+
+Leaked tokens can be a serious security threat. By following the guidance in this document, you can help to protect your organization and your users from the risks associated with leaked tokens.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
