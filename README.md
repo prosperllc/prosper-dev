@@ -11,8 +11,6 @@
   <p align="center">
     Prosper SDK documentation.
     <br />
-    <a href="."><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href=".">Reach out to security</a>
     ·
@@ -22,6 +20,14 @@
   </p>
 </div>
 
+<!-- GETTING STARTED -->
+## Getting Started
+
+Prosper Investor APIs – Whether you are an individual investor, institutional investor, or a third party agent putting your knowledge to work for others, Prosper provides Investor APIs to quickly locate, search for, bid on, and filter through loan investment options. Build a portfolio that suits your investment needs.
+
+Prosper Borrower Services enables approved partners to present personalized loan offers to customers within the context of a website or mobile app. You host the loan application flow, collect the necessary data points from your users, and dynamically pass that data to us — Prosper provides real-time decisions for your users.
+
+Check out prosper dev-docs page here for further information : https://developers.prosper.com/docs/ 
 
 
 <!-- ABOUT THE PROJECT -->
@@ -62,11 +68,6 @@ Leaked tokens can be a serious security threat. By following the guidance in thi
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
@@ -110,15 +111,30 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Raise a Bug
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [x] Describe the bug
+- [x] To Reproduce
+- [ ] Expected behavior
+- [ ] Priority
+- [ ] Screenshots/Video
+- [ ] Device details : Desktop
+- [ ] Device details : Mobile/Tablet
+- [ ] Additional context
 
+#### Desktop
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari, firefox, edge]
+ - Resolution [e.g. 2560 X 1289]
+ - Version [e.g. 22]
 
-See the [open issues](./issues) for a full list of proposed features (and known issues).
+#### Mobile/Tablet
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Screen size: [e.g. 4.75, 5.5]
+ - Mobile Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,9 +149,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature/newFeatures`)
+3. Commit your Changes (`git commit -m 'Add some new Features'`)
+4. Push to the Branch (`git push origin feature/newFeature`)
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
